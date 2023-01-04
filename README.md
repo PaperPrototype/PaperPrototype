@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on making voxel terrain course on https://sparker3d.com
+- 🌱 I’m currently learning computer graphics using [these](https://gabrielgambetta.com/computer-graphics-from-scratch/) [awesome](https://gamemath.com/) [book](https://www.pbrt.org/)s (ps: they are all free to read online)
+- 🤔 I’m looking for help/feedback on https://sparker3d.com so reach out if you think your brain comes up with a brilliant idea
+- 📫 How to reach me: [my discord server](https://discord.gg/QhqTE4t2tR) Paper#6460
