@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently making voxel terrain courses on my website https://sparker3d.com
-- 🌱 I’m learning computer graphics using [these](https://gabrielgambetta.com/computer-graphics-from-scratch/) [awesome](https://gamemath.com/) [book](https://www.pbrt.org/)s. I am working through the books using p5js [here https://editor.p5js.org/PaperPrototype/sketches/dOyhXKj0h](https://editor.p5js.org/PaperPrototype/sketches/dOyhXKj0h) (ps: they are all free to read online)
+- 🌱 Check out [these](https://gabrielgambetta.com/computer-graphics-from-scratch/) [awesome](https://gamemath.com/) [book](https://www.pbrt.org/)s if you want to learn computer graphics (ps: they are all free to read online)
 - 🤔 I’m always out to improve https://sparker3d.com so reach out when your brain comes up with any crazy brilliant ideas
 - 📫 You can reach me through [my discord server](https://discord.gg/QhqTE4t2tR) or with Paper#6460
