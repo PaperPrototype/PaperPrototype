@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently making voxel terrain courses on my website https://sparker3d.com
 - 🌱 Check out [these](https://gabrielgambetta.com/computer-graphics-from-scratch/) [awesome](https://gamemath.com/) [book](https://www.pbrt.org/)s if you want to learn computer graphics (ps: they are all free to read online)
 - 🤔 I’m always out to improve https://sparker3d.com so reach out when your brain comes up with any crazy brilliant ideas
-- 📫 You can reach me through [my discord server](https://discord.gg/QhqTE4t2tR) or with Paper#6460
+- 📫 You can reach me through [my discord server](https://discord.gg/QhqTE4t2tR) or with @paper_wolf on discord.
