@@ -13,8 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- [Books](https://gabrielgambetta.com/computer-graphics-from-scratch/) [on computer](https://gamemath.com/) [graphics](https://www.pbrt.org/) (ps: they are all free to read online)
 -->
 
-- 🔭 Voxel terrain courses -> https://sparker3d.com
-- 🌱 [Books](https://gabrielgambetta.com/computer-graphics-from-scratch/) [on computer](https://gamemath.com/) [graphics](https://www.pbrt.org/) (ps: they are all free to read online)
-- 📫 [my discord server](https://discord.gg/QhqTE4t2tR) or @paper_wolf on discord
+- My Voxel Tutorials -> https://sparker3d.com
+- Coding Platform I'm building -> https://sparker.gg
+- [Discord](https://discord.gg/QhqTE4t2tR) -> @paper_wolf
+
+I'm also working on examlete.com (still working on MVP)
+As involved as I can be with [ProwlEngine](https://github.com/ProwlEngine)
