@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 - [Discord](https://discord.gg/QhqTE4t2tR) -> @paper_wolf
 
 I'm also working on examlete.com (still working on MVP)
-As involved as I can be with [ProwlEngine](https://github.com/ProwlEngine)
+
+Involved as I can be with [ProwlEngine](https://github.com/ProwlEngine) (super cool game engine to make Unity obsolete, dont tell anyone)
