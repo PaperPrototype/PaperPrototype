@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - Coding Platform I'm building -> https://sparker.gg
 - [Discord](https://discord.gg/QhqTE4t2tR) -> @paper_wolf
 
-I'm also working on examlete.com (still working on MVP)
+I'm also working on examlete.com (MVP is in progress)
 
 Involved as I can be with [ProwlEngine](https://github.com/ProwlEngine) (super cool game engine to make Unity obsolete, dont tell anyone)
