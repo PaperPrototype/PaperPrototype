@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 I'm also working on examlete.com (MVP is in progress)
 
-Involved as I can be with [ProwlEngine](https://github.com/ProwlEngine) (super cool game engine to make Unity obsolete, dont tell anyone)
+Involved as I can be with [[ProwlEngine](https://github.com/ProwlEngine)](https://github.com/ProwlEngine/Prowl) (super cool game engine to make Unity obsolete, dont tell anyone)
