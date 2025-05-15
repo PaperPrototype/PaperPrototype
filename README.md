@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 - [Books](https://gabrielgambetta.com/computer-graphics-from-scratch/) [on computer](https://gamemath.com/) [graphics](https://www.pbrt.org/) (ps: they are all free to read online)
 -->
 
-- My Voxel Tutorials -> https://sparker3d.com
-- Coding Platform I'm building -> https://sparker.gg
+- My Voxel Tutorials -> https://sparker.gg
+- Coding Platform I'm building -> https://codetoy.io
 - [Discord](https://discord.gg/QhqTE4t2tR) -> @paper_wolf
-
-I'm also working on examlete.com (MVP is in progress)
 
 Involved as I can be with [ProwlEngine](https://github.com/ProwlEngine/Prowl) (super cool game engine to make Unity obsolete, dont tell anyone)
