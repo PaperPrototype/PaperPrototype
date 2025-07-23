@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - Coding Platform I'm building -> https://codetoy.io
 - [Discord](https://discord.gg/QhqTE4t2tR) -> @paper_wolf
 
-Involved as I can be with [ProwlEngine](https://github.com/ProwlEngine/Prowl) (super cool game engine to make Unity obsolete, dont tell anyone)
+Involved as I can be with [ProwlEngine](https://github.com/ProwlEngine/Prowl) (super cool game engine to make Unity obsolete, *shh* don't tell anyone!)
