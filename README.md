@@ -24,4 +24,4 @@ I've moved on since then and I'm curently building a way to improve CS education
 
 You can reach me most easily via my Discord server [Discord](https://discord.gg/QhqTE4t2tR) or my Discord handle @paper_wolf
 
-I'm a huge fan of [ProwlEngine](https://github.com/ProwlEngine/Prowl) (super cool game engine to make Unity obsolete, *shh* don't tell anyone!)
+I'm a huge fan of [ProwlEngine](https://github.com/ProwlEngine/Prowl) and it's libraries (especially the [UI library](https://github.com/ProwlEngine/Prowl.Paper)).
